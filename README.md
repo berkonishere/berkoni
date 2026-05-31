@@ -1,2 +1,2 @@
 # berkoni
-I'm trying something.
+An AI project that will be developed soon...
